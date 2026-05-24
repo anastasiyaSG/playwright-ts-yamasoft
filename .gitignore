@@ -1,0 +1,1 @@
+# Dependencies\nnode_modules/\n.npm\n.yarn\n\n# Environment variables\n.env\n.env.local\n.env.*.local\n\n# Test artifacts\nplaywright-report/\ntest-results/\nallure-results/\ntraces/\n\n# IDE\n.vscode/\n.idea/\n*.swp\n*.swo\n*~\n.DS_Store\n\n# Build\ndist/\nbuild/\n*.tgz\n\n# Logs\nlogs/\n*.log\n
